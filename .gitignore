@@ -1,0 +1,12 @@
+*.o
+*.o.d
+*.a
+*.so*
+drivers/.lock-util.d
+drivers/lock-util
+drivers/td-util
+part/..d
+part/part-util
+vhd/vhd-index
+vhd/vhd-update
+vhd/vhd-util
