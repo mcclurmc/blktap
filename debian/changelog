@@ -1,3 +1,9 @@
+blktap (2.0.90-1ubuntu1) oneiric; urgency=low
+
+  * Ubuntu Oneiric bump
+
+ -- Mike McClurg <mike.mcclurg@citrix.com>  Mon, 28 Nov 2011 15:45:37 +0000
+
 blktap (2.0.90-1) unstable; urgency=low
 
   * Initial release. (Closes: #635115)
